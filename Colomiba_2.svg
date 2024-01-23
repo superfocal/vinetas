@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 203.46 162.77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #33915c;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #1b4c2f;
+      }
+
+      .cls-3 {
+        fill: #7e6a25;
+      }
+
+      .cls-4 {
+        fill: #e6332a;
+      }
+
+      .cls-5 {
+        fill: #fdc300;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" width="203.46" height="162.77"/>
+  <g>
+    <rect class="cls-4" x="19.01" y="25.9" width="53.52" height="114.68" transform="translate(-9.19 5.76) rotate(-6.55)"/>
+    <rect class="cls-4" x="129.81" y="26.41" width="53.52" height="114.68" transform="translate(300.42 187.86) rotate(-172.25)"/>
+    <g>
+      <rect class="cls-5" x="21.51" y="35" width="29.69" height="10.84" transform="translate(-4.37 4.41) rotate(-6.55)"/>
+      <rect class="cls-5" x="23.14" y="49.23" width="29.69" height="10.84" transform="translate(-5.98 4.69) rotate(-6.55)"/>
+      <rect class="cls-5" x="24.77" y="63.45" width="29.69" height="10.84" transform="translate(-7.59 4.97) rotate(-6.55)"/>
+      <rect class="cls-5" x="26.4" y="77.67" width="29.69" height="10.84" transform="translate(-9.2 5.24) rotate(-6.55)"/>
+      <rect class="cls-5" x="28.03" y="91.9" width="29.69" height="10.84" transform="translate(-10.81 5.52) rotate(-6.55)"/>
+      <rect class="cls-5" x="29.67" y="106.12" width="29.69" height="10.84" transform="translate(-12.43 5.8) rotate(-6.55)"/>
+      <rect class="cls-5" x="31.3" y="120.34" width="29.69" height="10.84" transform="translate(-14.04 6.08) rotate(-6.55)"/>
+    </g>
+    <g>
+      <rect class="cls-3" x="31.64" y="43.15" width="20.35" height="7.71" transform="translate(-5.09 5.07) rotate(-6.55)"/>
+      <rect class="cls-3" x="33.27" y="57.37" width="20.35" height="7.71" transform="translate(-6.7 5.35) rotate(-6.55)"/>
+      <rect class="cls-3" x="34.9" y="71.59" width="20.35" height="7.71" transform="translate(-8.31 5.63) rotate(-6.55)"/>
+      <rect class="cls-3" x="36.53" y="85.82" width="20.35" height="7.71" transform="translate(-9.92 5.91) rotate(-6.55)"/>
+      <rect class="cls-3" x="38.16" y="100.04" width="20.35" height="7.71" transform="translate(-11.53 6.19) rotate(-6.55)"/>
+      <rect class="cls-3" x="39.8" y="114.26" width="20.35" height="7.71" transform="translate(-13.14 6.47) rotate(-6.55)"/>
+    </g>
+    <polygon class="cls-1" points="66.48 28.99 70.64 22.92 82.29 134.75 78.22 131.34 66.48 28.99"/>
+    <polygon class="cls-1" points="77.05 26.81 82.29 20.39 89.56 133.4 85.84 128.5 77.05 26.81"/>
+    <polygon class="cls-1" points="89.56 24.95 94.79 18.59 97.16 132.22 93.36 127.32 89.56 24.95"/>
+    <polygon class="cls-1" points="100.7 24.44 106.79 18.59 104.42 132.22 100.7 126.98 100.7 24.44"/>
+    <polygon class="cls-1" points="112.87 24.95 118.95 20.39 111.85 133.4 108.31 127.15 112.87 24.95"/>
+    <polygon class="cls-1" points="124.69 26.81 131.11 22.92 118.95 134.75 115.57 128.33 124.69 26.81"/>
+    <polygon class="cls-2" points="70.64 22.92 77.05 26.81 85.84 128.5 82.29 134.75 70.64 22.92"/>
+    <polygon class="cls-2" points="82.29 20.39 89.56 24.95 93.36 127.32 89.56 133.4 82.29 20.39"/>
+    <polygon class="cls-2" points="94.79 18.59 100.7 24.44 100.7 126.98 97.16 132.22 94.79 18.59"/>
+    <polygon class="cls-2" points="106.79 18.59 112.87 24.95 108.31 127.15 104.42 132.22 106.79 18.59"/>
+    <polygon class="cls-2" points="118.95 20.39 124.69 26.81 115.57 128.33 111.85 133.4 118.95 20.39"/>
+    <polygon class="cls-2" points="131.11 22.92 136.83 30.37 122.97 132.22 118.95 134.75 131.11 22.92"/>
+    <circle class="cls-5" cx="145.87" cy="36.35" r="2.28"/>
+    <circle class="cls-5" cx="161.47" cy="38.14" r="2.28"/>
+    <circle class="cls-5" cx="152.9" cy="43.95" r="2.28"/>
+    <circle class="cls-5" cx="143.92" cy="51.1" r="2.28"/>
+    <circle class="cls-5" cx="159.53" cy="52.89" r="2.28"/>
+    <circle class="cls-5" cx="150.96" cy="58.7" r="2.28"/>
+    <circle class="cls-5" cx="140.88" cy="68.42" r="2.28"/>
+    <circle class="cls-5" cx="156.48" cy="70.21" r="2.28"/>
+    <circle class="cls-5" cx="147.91" cy="76.02" r="2.28"/>
+    <circle class="cls-5" cx="137.83" cy="85.74" r="2.28"/>
+    <circle class="cls-5" cx="153.44" cy="87.53" r="2.28"/>
+    <circle class="cls-5" cx="144.87" cy="93.34" r="2.28"/>
+    <circle class="cls-5" cx="134.78" cy="103.06" r="2.28"/>
+    <circle class="cls-5" cx="150.39" cy="104.85" r="2.28"/>
+    <circle class="cls-5" cx="141.82" cy="110.66" r="2.28"/>
+    <circle class="cls-5" cx="132.83" cy="120.37" r="2.28"/>
+    <circle class="cls-5" cx="148.43" cy="122.17" r="2.28"/>
+    <circle class="cls-5" cx="139.86" cy="127.98" r="2.28"/>
+  </g>
+</svg>
